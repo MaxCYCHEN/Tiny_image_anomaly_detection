@@ -1,0 +1,1 @@
+python gen_rgb_cpp.py --image_path C:\CYCHEN38\MICRO_ML\anomoly_detyection\pictures_sample --image_size 224 224 --source_folder_path ref_samples --header_folder_path ref_samples
